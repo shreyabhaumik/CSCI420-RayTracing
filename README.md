@@ -66,32 +66,32 @@ The core part for the respective scenes take the following durations:
 - The ```.scene``` files are in the folder "hw3-starterCode".
 
 ### **EXHIBIT:**
-![Reflection](Still-Images/000.jpg)  
+![Reflection](hw3-starterCode/Still-Images/000.jpg)  
 REFLECTION(1 iteration) - test2.scene - 11 secs 	[```./hw3 test2.scene n n 1 000.jpg``` or ```./hw3 test2.scene n n 1```]  
 
-![Antialiasing](Still-Images/001.jpg)  
+![Antialiasing](hw3-starterCode/Still-Images/001.jpg)  
 ANTIALIASING - test2.scene - 11 secs 	[```./hw3 test2.scene y n 0 001.jpg``` or ```./hw3 test2.scene y```]  
 
-![Soft Shadows](Still-Images/002.jpg)  
+![Soft Shadows](hw3-starterCode/Still-Images/002.jpg)  
 SOFTSHADOWS - table.scene - 42 secs 	[```./hw3 table.scene n y 0 002.jpg``` or ```./hw3 table.scene n y```]  
 
-![1Reflection&Antialiasing](Still-Images/003.jpg)  
+![1Reflection&Antialiasing](hw3-starterCode/Still-Images/003.jpg)  
 REFLECTION(1 iteration) + ANTIALIASING - spheres.scene - 11 secs 	[```./hw3 spheres.scene y n 1 003.jpg``` or ```./hw3 spheres.scene y n 1```]  
 
-![3Reflections&Antialiasing](Still-Images/004.jpg)  
+![3Reflections&Antialiasing](hw3-starterCode/Still-Images/004.jpg)  
 REFLECTION(3 iterations) + ANTIALIASING - spheres.scene - 11 secs 	[```./hw3 spheres.scene y n 3 004.jpg``` or ```./hw3 spheres.scene y n 3```]  
 
-![1Reflection&SoftShadows](Still-Images/005.jpg)  
+![1Reflection&SoftShadows](hw3-starterCode/Still-Images/005.jpg)  
 REFLECTION(1 iteration) + SOFTSHADOWS - spheres.scene - 11 secs 	[```./hw3 spheres.scene n y 1 005.jpg``` or ```./hw3 spheres.scene n y 1```]  
 
-![Antialiasing&SoftShadows](Still-Images/006.jpg)  
+![Antialiasing&SoftShadows](hw3-starterCode/Still-Images/006.jpg)  
 ANTIALIASING + SOFTSHADOWS - table.scene - 2 mins 44 secs 	[```./hw3 table.scene y y 0 006.jpg``` or ```./hw3 table.scene y y```]  
 
-![3Reflections&Antialiasing&SoftShadows-Spheres](Still-Images/007.jpg)  
+![3Reflections&Antialiasing&SoftShadows-Spheres](hw3-starterCode/Still-Images/007.jpg)  
 REFLECTION(3 iterations) + ANTIALIASING + SOFTSHADOWS - spheres.scene - 14 secs 	[```./hw3 spheres.scene y y 3 007.jpg``` or ```./hw3 spheres.scene y y 3```]  
 
-![3Reflections&Antialiasing&SoftShadows-Table](Still-Images/008.jpg)  
+![3Reflections&Antialiasing&SoftShadows-Table](hw3-starterCode/Still-Images/008.jpg)  
 REFLECTION(3 iterations) + ANTIALIASING + SOFTSHADOWS - table.scene - 8 mins 57 secs 	[```./hw3 table.scene y y 3 008.jpg``` or ```./hw3 table.scene y y 3```]  
 
-![3Reflections&Antialiasing&SoftShadows-Siggraph](Still-Images/009.jpg)  
+![3Reflections&Antialiasing&SoftShadows-Siggraph](hw3-starterCode/Still-Images/009.jpg)  
 REFLECTION(3 iterations) + ANTIALIASING + SOFTSHADOWS - siggraph.scene - 53 mins 9 secs 	[```./hw3 siggraph.scene y y 3 009.jpg``` or ```./hw3 siggraph.scene y y 3```]  
